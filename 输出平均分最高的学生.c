@@ -11,7 +11,7 @@ int main(void)
 	struct student stu,max;
 	//printf("Enter n:");
 	scanf("%d",&n);
-	//printf("Enter student num,name,course-score:\n");
+	//printf("Enter student num,name,course-score:\n");             闲着没事干可以多敲几行
 	//printf("No 1:");
    // scanf("%d %s %i %i %i",&max.num,max.name,&max.math,&max.English,&max.computer);
 	//max.average=(max.math+max.English+max.computer)/3.0;
